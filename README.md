@@ -1,13 +1,9 @@
 # Projeto-Toten
 
 ![1](https://user-images.githubusercontent.com/63641600/79221411-286b4180-7e2c-11ea-95cc-453cc1010dff.jpeg)
-
 ![2](https://user-images.githubusercontent.com/63641600/79221483-433db600-7e2c-11ea-8268-12332da80d38.jpeg)
-
 ![3](https://user-images.githubusercontent.com/63641600/79221651-9879c780-7e2c-11ea-8997-d9a8886c21a9.jpeg)
-
 ![4](https://user-images.githubusercontent.com/63641600/79221957-15a53c80-7e2d-11ea-8c99-04a9e54cd1f2.jpeg)
-
 ![5](https://user-images.githubusercontent.com/63641600/79222215-877d8600-7e2d-11ea-80f1-a35438755b9a.jpeg)
 ![6](https://user-images.githubusercontent.com/63641600/79222221-8cdad080-7e2d-11ea-86ee-f428b417a902.jpeg)
 ![7](https://user-images.githubusercontent.com/63641600/79222225-8ea49400-7e2d-11ea-9cdf-068697185a9a.jpeg)
